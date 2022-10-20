@@ -1,0 +1,22 @@
+flask:
+  port: 8080
+  host: "0.0.0.0"
+email:
+  cc: "lynettegradschool@gmail.com"
+  from: "lidang@uchicago.edu"
+  to: 
+    co: "lidang@uchicago.edu"
+    ky: "lidang@uchicago.edu"
+    ne: "lidang@uchicago.edu"
+    nd: "lidang@uchicago.edu"
+    tn: "lidang@uchicago.edu"
+    wv: "lidang@uchicago.edu"
+cloud:
+  bucket_name: "fractracker"
+  blob_name: "report_submissions_metadata"
+paths:
+  metadata: "data/report_submissions_metadata.csv"
+  cloud_metadata: "data/report_submissions_metadata_cloud.csv"
+dates:
+  begin_date: '12-01-2017'
+  end_date: '01-01-2018'

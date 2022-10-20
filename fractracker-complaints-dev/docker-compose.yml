@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  fractracker:
+    platform: linux/amd64
+    build:
+      context: .
+      args:
+        - PORT=${PORT}
+        - PROD_ENV=${PROD_ENV}
+    env_file:
+      - .env
+    volumes:
+      - ./tests/:/fractracker-complaints/tests
+

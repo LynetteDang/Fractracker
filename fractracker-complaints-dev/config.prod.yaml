@@ -1,0 +1,14 @@
+api:
+  fractracker_base_url: "https://api.fractracker.org/v1/data/report"
+flask:
+  port: 8080
+  host: "0.0.0.0"
+email:
+  from: "ReportingApp@fractracker.org"
+  to:
+    co: "dnr_cogcc.complaints@state.co.us"
+    ky: "burnlaw@ky.gov"
+    ne: "NDEQ.problem@nebraska.gov"
+    nd: "AirQuality@nd.gov"
+    tn: "TDEC@tn.gov"
+    wv: "Wanda.E.Spradling@wv.gov"

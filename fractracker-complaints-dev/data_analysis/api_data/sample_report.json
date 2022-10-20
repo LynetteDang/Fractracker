@@ -1,0 +1,96 @@
+{"geometry": 
+    {
+     "geometries": [
+                    {
+                     "coordinates": [-80.8966, 40.3112], 
+                     "type": "Point"}
+                   ], 
+     "type": "GeometryCollection"
+     }, 
+ "id": 2213, 
+ "properties": {
+                "created_by": {"geometry": null, 
+                               "id": 2913, 
+                               "properties": {"active": true, 
+                                              "bio": null, 
+                                              "confirmed_at": null, 
+                                              "current_login_at": "2021-04-15T17:17:05.631969", 
+                                              "email": "leezeca@gmail.com", 
+                                              "first_name": "", 
+                                              "id": 2913, 
+                                              "last_login_at": "2021-04-15T17:17:05.206604", 
+                                              "last_name": "", 
+                                              "login_count": 2, 
+                                              "organization_name": "", 
+                                              "picture": "https://api.fractracker.org/static/usercontent/FS_bd584eb4a4ce40d28f0645464d0b03f5_thumbnail.jpg", 
+                                              "screen_name": "Litter Leviathan", 
+                                              "title": null
+                                            }, 
+                                "type": "Feature"
+                                }, 
+                "created_on": "2021-04-15T15:29:28.185746", 
+                "creator_id": 2913, 
+                "description": "Workers & Land Movers have been hauling ass plowing down and building a grazing hillside above a constant stream. They built this from 11pm-?am over the Easter Holiday. Looks like they just made a bigger hill and parked 100,000 tons of equipment on it.\n*Why pay workers for night work over holiday time? Certainly no reason benefitting locals.", 
+                "id": 2213, 
+                "images": [
+                    {
+                        "geometry": null, 
+                        "id": 4361, 
+                        "properties": {
+                            "created_on": "2021-04-15T15:29:27.698335", 
+                            "creator_id": 2913, 
+                            "credit": null, 
+                            "credit_link": null, 
+                            "filename": "JPEG_20210415_152823_6766190543359848193.jpg", 
+                            "filesize": "458692", 
+                            "filetype": "multipart/form-data", 
+                            "icon": "https://api.fractracker.org/static/usercontent/FS_67bde3449f0c4493ab815658260301de_icon.jpg", 
+                            "icon_retina": "https://api.fractracker.org/static/usercontent/FS_67bde3449f0c4493ab815658260301de_icon@2x.jpg", 
+                            "id": 4361, 
+                            "last_modified_by_id": 2913, 
+                            "modified_on": "2021-04-15T15:29:27.698368", 
+                            "original": "https://api.fractracker.org/static/usercontent/FS_67bde3449f0c4493ab815658260301de_original.jpg", 
+                            "square": "https://api.fractracker.org/static/usercontent/FS_67bde3449f0c4493ab815658260301de_square.jpg", 
+                            "square_retina": "https://api.fractracker.org/static/usercontent/FS_67bde3449f0c4493ab815658260301de_square@2x.jpg", 
+                            "thumbnail": "https://api.fractracker.org/static/usercontent/FS_67bde3449f0c4493ab815658260301de_thumbnail.jpg",
+                            "thumbnail_retina": "https://api.fractracker.org/static/usercontent/FS_67bde3449f0c4493ab815658260301de_thumbnail@2x.jpg"
+                            }, 
+                        "type": "Feature"
+                    }
+                    ], 
+                "industries": [
+                    {
+                        "geometry": null, 
+                        "id": 140, 
+                        "properties": {
+                            "description": null, 
+                            "icon_url": null, 
+                            "id": 140, 
+                            "name": "Ascent Fracking"
+                            }, 
+                        "type": "Feature"
+                    }
+                    ], 
+                "is_public": true, 
+                "last_modified_by": null, 
+                "last_modified_by_id": null, 
+                "moderation": null, 
+                "modified_on": "2021-04-15T15:29:28.185771", 
+                "report_date": "2021-04-15T00:00:00", 
+                "senses": [
+                    {
+                        "geometry": null, 
+                        "id": 1, 
+                        "properties": {
+                            "description": null, 
+                            "icon_url": null, 
+                            "id": 1, 
+                            "name": "Sight"
+                            },
+                        "type": "Feature"
+                        }
+                        ], 
+                "title": "What's coming to our township?", 
+                "workflow_state": null
+            }, 
+ "type": "Feature"}

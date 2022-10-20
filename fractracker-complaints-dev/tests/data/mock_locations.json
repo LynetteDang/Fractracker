@@ -1,0 +1,90 @@
+[
+    {
+        "lat": 38.603130,
+        "lon": -121.448660,
+        "state": "California",
+        "zip": "95813",
+        "county": "Sacramento County",
+        "full_address": "2000 Royal Oaks Dr, Sacramento, CA 95813"
+    },
+    {
+        "lat": 39.915482,
+        "lon": -105.068413,
+        "state": "Colorado",
+        "zip": "80020",
+        "county": "City and County of Broomfield",
+        "full_address": "280 E 1st Ave, Broomfield, CO 80020"
+    },
+    {
+        "lat": 38.076750,
+        "lon": -84.504590,
+        "state": "Kentucky",
+        "zip": "40511",
+        "county": "Fayette County",
+        "full_address": "1088 Nandino Blvd, Lexington, KY 40511"
+    },
+    {
+        "lat": 41.224861,
+        "lon": -96.138680,
+        "state": "Nebraska",
+        "zip": "68154",
+        "county": "Douglas County",
+        "full_address": "139 S 144th St, Omaha, NE 68154"
+    },
+    {
+        "lat": 32.165690,
+        "lon": -106.688690,
+        "state": "New Mexico",
+        "zip": "88048",
+        "county": "Dona Ana County",
+        "full_address": "395 NM-228, Mesquite, NM 88048"
+    },
+    {
+        "lat": 46.8782861,
+        "lon": -96.7901718,
+        "state": "North Dakota",
+        "zip": "58102",
+        "county": "Cass County",
+        "full_address": "657 2nd Ave N Rm 104, Fargo, ND 58102"
+    },
+    {
+        "lat": 41.4877228,
+        "lon": -81.6507152,
+        "state": "Ohio",
+        "zip": "44104",
+        "county": "Cuyahoga County",
+        "full_address": "5600 Woodland Ave, Cleveland, OH 44104"
+    },
+    {
+        "lat": 40.3003562,
+        "lon": -79.545051,
+        "state": "Pennsylvania",
+        "zip": "15601",
+        "county": "Westmoreland County",
+        "full_address": "238 S Pennsylvania Ave, Greensburg, PA 15601"
+    },
+    {
+        "lat": 35.1307445,
+        "lon": -90.0556399,
+        "state": "Tennessee",
+        "zip": "38101",
+        "county": "Shelby County",
+        "full_address": "555 S B B King Blvd, Memphis, TN 38101"
+    },
+    {
+        "lat": 29.7334711,
+        "lon": -95.4986697,
+        "state": "Texas",
+        "zip": "77057",
+        "county": "Harris County",
+        "full_address": "2950 Unity Dr, Houston, TX 77057"
+    },
+    {
+        "lat": 38.3495273,
+        "lon": -81.6311761,
+        "state": "West Virginia",
+        "zip": "25301",
+        "county": "Kanawha County",
+        "full_address": "1002 Lee St E, Charleston, WV 25301"
+    }
+]
