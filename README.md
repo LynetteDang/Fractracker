@@ -1,5 +1,14 @@
 # fractracker-complaints
 
+## Acknowledgement
+The Civic Data and Technology Clinic at the University of Chicago partners with public interest organizations to leverage data science research and technology to address pressing social and environmental challenges. This project is a collaboration with FracTracker Alliance, completed by three student developers: Jacob Lehr, Sophia MLawer, and Lynette Dang under the supervision of Launa Greer and with the help from Sebastian Clavijo. 
+
+## Background
+FracTracker, the project, was launched as a website at the University of Pittsburgh in 2010 to investigate health concerns and data gaps surrounding western Pennsylvania fracking. In 2012, FracTracker Alliance registered as a non-profit organization. Since then, it has supported groups across the United States, addressing pressing extraction-related concerns with a lens toward health effects and exposure risks on communities from oil and gas development.  Our main contacts at the organization will be Kyle Ferrar (Western Program Coordinator), Matt Kelso (Manager of Data & Technology), and Brook Lenker (Executive Director).
+
+The FracTracker mobile app allows users to document potentially harmful encroachment of wells, pipelines, trains, refineries, landfills, mines, pits, and compressors within their local communities.  Users select the type of infrastructure or activity witnessed and the physical senses impacted (e.g., smell, sound); report their location; and then, optionally, add a written description, title, and photos. In the coming months, FracTracker Alliance will add a new feature to the app permitting users to submit reports as official complaints to the appropriate state agencies.
+User metadata and reports are currently available through one of FracTracker Alliance’s internal APIs (application programming interfaces).  The goal of this clinic project is to build a set of scripts that run nightly to (1) query the API for new reports, (2) route each report to a state agency, and (3) submit the required data through either an automated email or WebDriver tool such as Selenium.  We will start with the seven primary fracking states of California, New Mexico, Colorado, Texas, Ohio, Pennsylvania, and West Virginia and expand to others as time permits. Our scripts will be deployed to Google Cloud Platform (GCP) and run on a Cloud Run or Compute Engine instance that is created and destroyed on demand.
+
 ## Description
 
 This project automates webform and email submissions of environmental complaints for FracTracker Alliance, for a list of state and county agencies specified below:
