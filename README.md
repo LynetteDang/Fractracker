@@ -106,3 +106,6 @@ To run the program, enter the command:
 ```
 python main.py
 ```
+
+## Prototype: SSD Connect
+[SSD Connect](https://www.figma.com/community/file/1216973904264301889) is an extension of this project. It is an ALL-IN-ONE networking web app for alumni and current students to network and form mentorships based on career and research interests under UChicago's Social Science Division (SSD) 
